@@ -1,0 +1,20 @@
+# JS - 0001 threejs
+
+```
+⚒ Probelm Definition 문제 정의
+```
+
+- mesh를 사용했을 때 계속해서 wireframe이 원하는 대로 작동하지 않는다.
+  - 사각형의 edge 만 따서 작업을 하고 싶은데, 사각형을 이루는 전체의 이미지가 출력된다.
+
+```
+🚶‍♀️ Probelm Solving 문제 해결하기
+```
+
+```
+🍎 Conclusion and Needs 결론과 추가적으로 필요한 것들
+```
+
+```
+📄 References 참고 자료
+```
